@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #
 # Cookbook:: test-cookbook
 # Recipe:: rubywithlinux
@@ -9,4 +10,4 @@ command <<-EOH
 mkdir /shanvi
 touch /shanvitext
 EOH
-end 
+end
